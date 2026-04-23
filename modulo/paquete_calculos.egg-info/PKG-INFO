@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: paquete_calculos
+Version: 1.0
+Summary: Este es un paquete que hace algunos calculos
+Author: Jair
+Author-email: ramosgonzalezjair@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
